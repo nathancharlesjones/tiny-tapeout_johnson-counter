@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-![](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/sequential-seq26.gif)
+![]([https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/sequential-seq26.gif](https://www.jotrin.com/userfiles/images/techs/Johnson%20counter.jpg))
 
 ## How to test
 
