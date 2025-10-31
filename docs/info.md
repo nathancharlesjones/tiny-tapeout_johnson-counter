@@ -9,12 +9,19 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+![https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/sequential-seq26.gif]
 
 ## How to test
 
-Explain how to use your project
+Power on the IC. All outputs should be toggling at 1/4 of the input clock frequency.
+
+A more in-depth test is to connect all four output to a logic analyzer. Verify that you see the following pattern when power is applied:
+
+Q_1 1-1-1-1-0-0-0-0
+Q_2 0-1-1-1-1-0-0-0
+Q_3 0-0-1-1-1-1-0-0
+Q_4 0-0-0-1-1-1-1-0
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
